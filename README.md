@@ -26,8 +26,8 @@ Embeds linked videos and images from users linked Instagram posts, videos, and r
 
   "IGAccounts": [
     {
-      "username": "IG Username",
-      "password": "IG Password",
+      "username": "f1brosleague@gmail.com",
+      "password": "BrO5-b1LdeR-1N5t4!22*+",
       "OTPSecret": "IG OTP Secret (optional)",
       "UsageTimes": [
         {
